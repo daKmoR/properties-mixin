@@ -1,0 +1,8 @@
+{
+  "name": "properties-mixin",
+  "version": "0.0.1",
+  "description": "Github clone (e.g. for use with bower) for npm version of polymer properties mixin",
+  "license": "BSD-3-Clause",
+  "main": "mixins/properties-mixin.js",
+  "author": "Thomas Allmer (d4kmor@gmail.com)"
+}
